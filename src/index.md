@@ -5,4 +5,4 @@ eleventyNavigation:
   key: Home
 ---
 
-Welcome to Eleventy starter.
+Les administrateurs réseaux sont mauvais.
